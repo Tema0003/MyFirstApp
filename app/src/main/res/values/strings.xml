@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="button_name">Кнопка счестчика</string>
+    <string name="counter">Количество нажатий</string>
+</resources>
